@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/ahmad-sheak-6a8595288/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I have recently completed CEH from creative it intitute. I have some measure skills that i can provide you service and also i am learning .
+I have recently completed CEH from creative it institute. I have some measure skills that i can provide you service and also i am learning .
 
 ## Objective
 
