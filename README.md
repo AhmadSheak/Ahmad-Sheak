@@ -14,7 +14,7 @@ As a cyber security specialist in International and multinational my first prior
 |-----------------------------------------------
 | Web Application Security                      
 | VAPT on Web Applicaton
-| Vulnerability Assesment Report for Web Application     
+| Vulnerability Assesment Test for Web Application     
 | Penetration Testing for Web Application   
 | Professional Security Report Writting 
 
