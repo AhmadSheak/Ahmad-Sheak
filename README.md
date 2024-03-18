@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/ahmad-sheak-6a8595288/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I have recently completed CEH from creative it institute. I have some measure skills that i can provide you service and also i am learning .
+I have recently completed CEH from Creative It institute. I have some measure skills that i can provide you service and also I am learning .
 
 ## Objective
 
@@ -39,8 +39,11 @@ As a cyber security specialist in International and multinational my first prior
 
 
 ## Certifications
+At first I have completed a Prerequisite caurse from brightskills then I have completed  a 6 month offline caurse from Creative IT institute at Danmondi.
 
-https://drive.google.com/file/d/1NmRJgV0pg6wBzz4Ue18iIf-hEuvDAkpO/view?usp=sharing
+ 1.https://drive.google.com/file/d/1NmRJgV0pg6wBzz4Ue18iIf-hEuvDAkpO/view?usp=sharing
+
+ 2.https://drive.google.com/file/d/1jMBT-0PzcDTZ0gt7Csvge6yGXYIMEQcI/view?usp=sharing
 
 ## Projects
 Recently I have joined with my international team in a CTF compitition on Hack the box and our international team rank is 485.
